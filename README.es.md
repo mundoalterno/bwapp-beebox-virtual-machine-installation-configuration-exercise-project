@@ -12,20 +12,20 @@ En 4Geeks Academy, hemos elegido usar el enfoque de máquina virtual por varias 
 
 Aquí están los pasos para poner en marcha bWAPP usando BeeBox:
 
-1. **Extraer el Archivo Comprimido:**
+- [ ] **Extraer el Archivo Comprimido:**
    Descarga y extrae el [archivo de la VM de BeeBox aquí.](https://storage.googleapis.com/breathecode/virtualbox/bee-box_v1.6.7z).
 
-2. **Crear una Nueva Máquina Virtual:**
+- [ ] **Crear una Nueva Máquina Virtual:**
    * Inicia VirtualBox.
    * Haz clic en Nueva.
    * Nombra la VM y especifica Linux como el tipo de sistema operativo para tu maquina. Luego deja la configuración por defecto para memoria y procesador.
 
-3. **Configurar Almacenamiento:**
+- [ ] **Configurar Almacenamiento:**
    * Ve a Configuración > Almacenamiento.
    * Añade el archivo que extrajiste en la carpeta `/beebox` con el nombre `beebox.vmdk` 
 
 
-4. **Go to the bWAPP Login Page:**
+- [ ] **Go to the bWAPP Login Page:**
    * Haz click sobre `bWAPP - start` y el navegador web se abrirá. Usa las credenciales predeterminadas para iniciar sesión, o crea un nuevo usuario.
 
    ```
