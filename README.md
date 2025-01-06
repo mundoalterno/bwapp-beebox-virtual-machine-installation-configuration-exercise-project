@@ -12,20 +12,20 @@ At 4Geeks Academy, we have chosen to use the virtual machine approach for severa
 
 Here are the steps to get bWAPP up and running using BeeBox:
 
-1. **Extract the Compressed File:**
+- [ ] **Extract the Compressed File:**
    Download and extract the [BeeBox VM file here](https://storage.googleapis.com/breathecode/virtualbox/bee-box_v1.6.7z).
 
 
-2. **Create a New Virtual Machine:**
+- [ ] **Create a New Virtual Machine:**
    * Launch VirtualBox.
    * Click on New.
    * Name the VM and specify Linux as the operating system type for your machine. Then, leave the default settings for memory and processor.
 
-3. **Configure Storage:**
+- [ ] **Configure Storage:**
    * Go to Settings > Storage.
    * Add the file you extracted in the `/beebox` folder with the name `beebox.vmdk`.
 
-4. **Go to the bWAPP Login Page:**
+- [ ] **Go to the bWAPP Login Page:**
    * Click on `bWAPP - start` and the web browser will open. Use the default credentials to log in, or create a new user.
 
    ```
