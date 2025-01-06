@@ -10,7 +10,7 @@
     "preview": "https://raw.githubusercontent.com/breatheco-de/bwapp-beebox-virtual-machine-installation-configuration-exercise-project/main/assets/preview-bWAPP.png",
     "repository": "https://github.com/breatheco-de/bwapp-beebox-virtual-machine-installation-configuration-exercise-project",
     "duration": 1,
-    "projectType": "tutorial",
+    "projectType": "project",
     "difficulty": "beginner",
     "delivery": {
 		"formats": ["no_delivery"]
